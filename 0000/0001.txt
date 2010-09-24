@@ -2,7 +2,7 @@ HP / PP
 Restore
 Status
 Healers
-ＨＰ／ＰＰ
+HP / PP 
 Restore
 Battle Items
 Poké Balls
